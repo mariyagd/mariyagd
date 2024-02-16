@@ -10,7 +10,7 @@ I'm a computer enthusiast and a student at École 42 in Lausanne (Switzerland) �
 🇫🇷  Je parle français<br>
 🇬🇧  I speak English<br>
 <br>
-[![mdanchev's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mdanchev?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+[![mdanchev's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mdanchev?1337Badge=off&UM6P=off)]()
 
 
 <!-- GitHub Stats Card -->
