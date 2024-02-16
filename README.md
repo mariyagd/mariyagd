@@ -6,8 +6,10 @@
 
 I'm a computer enthusiast and a student at École 42 in Lausanne (Switzerland) 🎓. Always eager to learn and take on new challenges 💪. My unconventional journey has taken me into programming, and I'm now immersed in the world of software development and artificial intelligence 🤖. On GitHub, you'll find my projects in C and C++, as well as my learning experiences and exploration of new languages and technologies 💻. Feel free to explore my profile and reach out to me for any collaboration or mutual learning opportunities 🚀. See you soon! 😊
 
-I speak 🇫🇷 français  |  🇬🇧 English  |  🇧🇬 български
-
+🇧🇬  Говоря български<br>
+🇫🇷  Je parle français<br>
+🇬🇧  I speak English<br>
+<br>
 [![mdanchev's 42 stats](https://badge.mediaplus.ma/colorfulwaves/mdanchev?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
