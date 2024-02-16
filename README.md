@@ -19,4 +19,7 @@ P.S. To check out my profile, click on the image:
 <!-- GitHub Stats Card -->
 ![mariyagd's Stats](https://github-readme-stats.vercel.app/api?username=mariyagd&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 ![mariyagd's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mariyagd&theme=vue-dark&hide_border=true)
+<a href="https://profile.intra.42.fr/users/mdanchev">
+    <img src="https://github.com/mariyagd/mariyagd/assets/109855801/88b2e5e7-a6af-4439-8719-ae3ac1e193e1" width="200" height="120" alt="Your image">
+</a>
 ![mariyagd's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mariyagd&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
