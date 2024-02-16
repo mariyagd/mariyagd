@@ -1,5 +1,3 @@
-
-
 ## <a href="https://profile.intra.42.fr/users/mdanchev"> <img src="https://github.com/mariyagd/mariyagd/assets/109855801/88b2e5e7-a6af-4439-8719-ae3ac1e193e1" width="75" height="45" alt="Your image"> </a> Software Developer at 42 Lausanne  
 
 ### Hi there 👋
