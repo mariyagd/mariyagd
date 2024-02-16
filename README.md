@@ -17,4 +17,4 @@ I'm a computer enthusiast and a student at Ã‰cole 42 in Lausanne (Switzerland) ð
 ![mariyagd's Stats](https://github-readme-stats.vercel.app/api?username=mariyagd&theme=graywhite&show_icons=true&hide_border=true&count_private=false)
 
 
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/mariya-dancheva-038576248/)https://www.linkedin.com/in/mariya-dancheva-038576248/)
